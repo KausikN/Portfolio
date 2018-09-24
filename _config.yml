@@ -17,8 +17,8 @@ title: Kausik N
 email: Coe17b010@iiitdm.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   Web Portfolio of N.Kausik, BTech CS Student, IIITDM Kanchipuram
-baseurl: "jekyll-theme-midnight.github.io" # the subpath of your site, e.g. /blog
-url: "jekyll-theme-midnight.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KausikN
 github_username:  KausikN
 
