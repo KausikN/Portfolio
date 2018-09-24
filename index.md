@@ -6,8 +6,8 @@ layout: home
 ---
 <h1>Hello There!</h1>
 <h2>I'm Kausik</h2>
-<h1><b>About Me</b></h1>
-<hr>
+<h1><b>About Me</b></h1><hr>
+
 CS Undergrad, Web developer
 
 <p>
@@ -21,6 +21,6 @@ CS Undergrad, Web developer
  <p>
   I too like most people am a huge fan of the Marvel Cinematic Universe, Harry Potter, Lord of the Rings and basically any other major       movie franchise. I love movies and gaming. I am fascinated by Game Development and i love learning how to develop games using softwares     like Unity.</p>
   
-<h1><b>Contact Me</b></h1>
-<hr>
+<h1><b>Contact Me</b></h1><hr>
+
 So, thats enough of me. If you want to contact me,
