@@ -16,5 +16,11 @@ CS Undergrad, Web developer
   huge interest in coding and i was adamant that i would only pursue <i>Computer Science</i> in college. Fortunately for me, i got a      `   sufficient rank in JEE Mains to get into <b>IIITDM Kancheepuram</b>.</p>
   
 <p>
-  I'm now trying my best to introduce myself and become an expert in various CS topics, languages, etc. Currently I’m working as a Web       Developer at <a href="https://github.com/DMT-IIIT">Digital Media Team, IIITDM Kancheepuram</a>.
+  I'm now trying my best to introduce myself and become an expert in various CS topics, languages, etc. Currently I’m working as a Web       Developer at <a href="https://github.com/DMT-IIIT">Digital Media Team, IIITDM Kancheepuram</a>. Languages i know well are C, C++, Java     and languages that i am learning are Javascript, C#, Python and Ruby. Web technologies i've used are HTML, CSS and Javascript.</p>
+ 
+ <p>
+  I too like most people am a huge fan of the Marvel Cinematic Universe, Harry Potter, Lord of the Rings and basically any other major       movie franchise. I love movies and gaming. I am fascinated by Game Development and i love learning how to develop games using softwares     like Unity.</p>
   
+<h1><b>Contact Me</b></h1>
+<hr>
+So, thats enough of me. If you want to contact me,
