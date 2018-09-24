@@ -13,7 +13,7 @@ CS Undergrad, Web developer
 <p>
   I was born, brought up, studied and basically did everything i did in my life here in <b><i>Chennai</i></b>.
   I studied in Sri Sankara Senior Secondary School from 1st all the way through 12th standard. In my 11th and 12th days, i developed a 
-  huge interest in coding and i was adamant that i would only pursue <i>Computer Science</i> in college. Fortunately for me, i got a      `   sufficient rank in JEE Mains to get into <b>IIITDM Kancheepuram</b>.</p>
+  huge interest in coding and i was adamant that i would only pursue <i>Computer Science</i> in college. Fortunately for me, i got a         sufficient rank in JEE Mains to get into <b>IIITDM Kancheepuram</b>.</p>
   
 <p>
   I'm now trying my best to introduce myself and become an expert in various CS topics, languages, etc. Currently I’m working as a Web       Developer at <a href="https://github.com/DMT-IIIT">Digital Media Team, IIITDM Kancheepuram</a>. Languages i know well are C, C++, Java     and languages that i am learning are Javascript, C#, Python and Ruby. Web technologies i've used are HTML, CSS and Javascript.</p>
